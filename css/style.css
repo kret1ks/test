@@ -1,0 +1,23 @@
+.text-box h3 {
+    color: pink;
+}
+
+p {
+    color: blue;
+}
+
+#greycol {
+    color: grey;
+}
+
+.box>div>p {
+    color: red
+}
+
+p {
+    color: green;
+}
+
+.link:hover .link:focus {
+    color: yellow;
+}

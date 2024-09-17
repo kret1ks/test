@@ -1,23 +1,15 @@
-.text-box h3 {
+.text-box>h3:first-child{
     color: pink;
 }
-
-p {
-    color: blue;
-}
-
 #greycol {
     color: grey;
 }
-
-.box>div>p {
+div+div>p {
     color: red
 }
-
-p {
+div+h3+p{
     color: green;
 }
-
-.link:hover .link:focus {
+.yellow{
     color: yellow;
 }

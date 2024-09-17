@@ -1,4 +1,4 @@
-.text-box>h3:first-child{
+/* .text-box>h3:first-child{
     color: pink;
 }
 #greycol {
@@ -12,4 +12,14 @@ div+h3+p{
 }
 .yellow{
     color: yellow;
-}
+} */
+ .header-text{
+    width: 350px;
+    height: 220px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin: 30px;
+    background-color: green;
+ }
